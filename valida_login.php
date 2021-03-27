@@ -1,0 +1,1 @@
+<?  require "script_seguros/valida_login.php";?>

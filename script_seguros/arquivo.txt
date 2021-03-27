@@ -1,0 +1,5 @@
+3#Notebook não liga#Hardware#Nao liga 
+1#Notebook não liga- adm#Impressora#test
+3#Testando novo view#Software#123231212112
+1#blablalba#Rede#blablala
+2#Notebook não liga#Hardware#123321321123123
